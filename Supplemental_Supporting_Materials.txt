@@ -1,0 +1,17 @@
+
+Supplemental & Supporting Materials
+====================================
+
+1. `ASL Project Python Code.ipynb`
+   - Description: This Jupyter notebook contains the full Python code for the ASL Recognition Model. It includes sections for data loading, preprocessing, model training, evaluation, and visualization. 
+   - Importance: Essential for understanding the model's architecture, training process, and performance metrics. 
+
+2. `README.md`
+   - Description: A comprehensive guide detailing the project's setup, installation, usage, and additional information.
+   - Importance: Provides evaluators and users with essential instructions and insights into the project, ensuring easy setup and understanding of the project structure.
+
+3. Project Report (PDF)
+   - Description: A detailed report or document summarizing the project's objectives, methodology, results, and conclusions.
+   - Importance: Offers a comprehensive overview of the project, providing evaluators with in-depth insights into the research, development, and outcomes of the model.
+
+Note: The above descriptions are indicative. The actual contents may vary depending on the project's specific implementation and submission requirements.
