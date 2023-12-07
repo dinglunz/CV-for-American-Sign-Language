@@ -14,4 +14,3 @@ Supplemental & Supporting Materials
    - Description: A detailed report or document summarizing the project's objectives, methodology, results, and conclusions.
    - Importance: Offers a comprehensive overview of the project, providing evaluators with in-depth insights into the research, development, and outcomes of the model.
 
-Note: The above descriptions are indicative. The actual contents may vary depending on the project's specific implementation and submission requirements.

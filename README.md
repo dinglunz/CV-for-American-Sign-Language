@@ -20,7 +20,7 @@ This repository contains a Python implementation of a Convolutional Neural Netwo
    git clone https://github.com/dinglunz/CV-for-American-Sign-Language.git
    cd CV-for-American-Sign-Language
 
-2. Download the ASL alphabet dataset and place it in the project directory.
+2. Download the ASL alphabet dataset and extract it into the project root directory.
 
     ```bash
     https://www.kaggle.com/datasets/grassknoted/asl-alphabet
@@ -30,7 +30,7 @@ This repository contains a Python implementation of a Convolutional Neural Netwo
     ```bash
     pip install -r requirements.txt
 
-4. Run the Jupyter Notebook script
+4. Run the Jupyter Notebook script.
 
     ```bash
     asl.ipynb
